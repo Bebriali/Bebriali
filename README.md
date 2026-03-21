@@ -18,11 +18,11 @@ studying at drec mipt i'm working on low- and highlevel projects.
 
 ### 📊 Profile stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="Streak Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Bebriali&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Bebriali&theme=tokyonight" alt="Streak Stats" height="180" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bebriali&theme=tokyonight&area=true" width="100%" />
 
 ---
 
